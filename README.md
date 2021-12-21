@@ -5,7 +5,7 @@
 ### Purpose
 The client, Louise, has interest in theater kickstarters. She is primarily interested in play kickstarters and the success of these kickstarters as it relates to their goals and launch dates. She has some interest in musicals as well.
 ## Analysis and Challenges
-First, I looked at the data in entirety to get a good overview of what data was contained in the dataset. To get a better sense of the extent of the data, I used filters to look at some of the different categories and what they contained. (M1I1)
+First, I looked at the data in entirety to get a good overview of what data was contained in the dataset. To get a better sense of the extent of the data, I used filters to look at some of the different categories and what they contained. ![Image](/assets/images.M1I1.png)
 
 I also did some sorting to see what the scope of the data was. (M1I2)
 
