@@ -101,6 +101,9 @@ Once I evaluated the kickstarter funding data, I moved on to evaluating the outc
 
 I then created a new pivot table with filters of parent category & years, outcomes in the columns, date created conversion (month) in rows, and count of outcomes in values. Using this pivot table, I filtered by theater to show the data that the client is interested in. I visualized this data by creating a line chart.
 
+![Image](https://github.com/MDHetrick/kickstarter_analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+
+
 ### Analysis of Outcomes Based on Goals
 
 To evaluate the kickstarter outcomes based on their goals, I created a new sheet and created several categories ranging from <1000 to >50000. Using the COUNTIFS function, I populated the number successful, number failed, and number canceled for plays for each of the categories. 
@@ -108,6 +111,8 @@ To evaluate the kickstarter outcomes based on their goals, I created a new sheet
 ![Image](https://raw.githubusercontent.com/MDHetrick/kickstarter_analysis/main/M1I23.png)
 
 While the highest category was supposed to be greater than 50000, I followed the pattern of the previous categories and included 50000 in the counts of this row and renamed greater than to greater than or equal to. I summed the total projects in each goal category and calculated the percentage successful, failed, and canceled. Using the percentages, I created a line chart to quickly visualize the data.
+
+![Image](https://github.com/MDHetrick/kickstarter_analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
